@@ -1,10 +1,10 @@
-package com.example.SignUp;
+package com.JaguarRock.Auth;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SignUpApplicationTests {
+class AuthApplicationTests {
 
 	@Test
 	void contextLoads() {
